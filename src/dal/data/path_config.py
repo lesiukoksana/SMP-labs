@@ -1,0 +1,1 @@
+SETTINGS_FILE_PATH_LAB5 = 'src/dal/data/settings.json'
